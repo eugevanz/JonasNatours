@@ -72,16 +72,24 @@ self.__precacheManifest = [
     "url": "/jonasnatours/static/media/logo-green-small-2x.888043d5.png"
   },
   {
+    "revision": "19f9a22f45a15fbf80d420862bcadffb",
+    "url": "/jonasnatours/static/media/nat-5.19f9a22f.jpg"
+  },
+  {
+    "revision": "1ef6d764fc819e080d40aa72dfe03aa6",
+    "url": "/jonasnatours/static/media/nat-6.1ef6d764.jpg"
+  },
+  {
     "revision": "cd69d3552824dc8e99c3f2953de2735b",
     "url": "/jonasnatours/static/media/hero-small.cd69d355.jpg"
   },
   {
-    "revision": "6e09f4102b0d64adc38d21bd9c89a9a7",
-    "url": "/jonasnatours/static/media/hero.6e09f410.jpg"
-  },
-  {
     "revision": "61bbf12ae90a30cd432d77087921a02f",
     "url": "/jonasnatours/static/media/nat-4.61bbf12a.jpg"
+  },
+  {
+    "revision": "6e09f4102b0d64adc38d21bd9c89a9a7",
+    "url": "/jonasnatours/static/media/hero.6e09f410.jpg"
   },
   {
     "revision": "2797561ff2a3de15c850f2744b73b6d1",
@@ -90,14 +98,6 @@ self.__precacheManifest = [
   {
     "revision": "5f846d16e6be9a73e6eb73f620379af2",
     "url": "/jonasnatours/static/media/nat-7.5f846d16.jpg"
-  },
-  {
-    "revision": "19f9a22f45a15fbf80d420862bcadffb",
-    "url": "/jonasnatours/static/media/nat-5.19f9a22f.jpg"
-  },
-  {
-    "revision": "1ef6d764fc819e080d40aa72dfe03aa6",
-    "url": "/jonasnatours/static/media/nat-6.1ef6d764.jpg"
   },
   {
     "revision": "61f3a8a387a64abfc0535cd0813cd71a",
